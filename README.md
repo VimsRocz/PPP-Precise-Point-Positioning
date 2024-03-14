@@ -1,6 +1,9 @@
 # PPP-Precise-Point-Positioning
 # Precise Point Positioning (PPP) Analysis
 
+### Format of data is most important so please arange your data in such format to run MATLAB file
+
+
 ## Introduction
 Precise Point Positioning (PPP) is an advanced technique for absolute positioning using Global Navigation Satellite Systems (GNSS) with a single receiver. This approach relies on precise satellite orbit and clock information to achieve centimeter-level positioning accuracy. In this project, we process 4 hours of observation data from a Javad receiver using PPP and investigate the accuracy and precision of the results.
 
